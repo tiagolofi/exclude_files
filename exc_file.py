@@ -1,8 +1,8 @@
 
 import os
 
-PATH_DOC = 'C:/Users/usuario/Desktop/'
-PATH_DESKTOP = 'C:/Users/usuario/Documents/'
+PATH_DESKTOP = 'C:/Users/usuario/Desktop/'
+PATH_DOC = 'C:/Users/usuario/Documents/'
 
 def limpezaDOCDESKTOP(path_doc, path_desktop):
 	print('\nBuscando arquivos indesejados...\n')
